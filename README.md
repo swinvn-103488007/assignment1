@@ -6,7 +6,7 @@
 1) Command line arguments:
    * <filename>: specified the name of the text file which designated the scenario for robot navigation problem
    * <method>: type of search algorithm to perform. Can be one of those values:
-   - bfs (tell the program to search using Breadth-first Search algorithm)
+  - bfs (tell the program to search using Breadth-first Search algorithm)
   -  dfs (tell the program to search using Depth-first Search algorithm)
   - gbfs (tell the program to search using Greedy Best-first search algorithm)
   - as (tell the program to search using A* Search algorithm)
