@@ -4,8 +4,8 @@
 ![image](https://github.com/swinvn-103488007/assignment1/assets/93851676/7bf4f93d-d1ec-40cf-a60b-0d81726cdfb9)
 ## How to run program
 1) Command line arguments:
-   * <filename>: specified the name of the text file which designated the scenario for robot navigation problem
-   * <method>: type of search algorithm to perform. Can be one of those values:
+   * filename: specified the name of the text file which designated the scenario for robot navigation problem
+   * method: type of search algorithm to perform. Can be one of those values:
   - bfs (tell the program to search using Breadth-first Search algorithm)
   -  dfs (tell the program to search using Depth-first Search algorithm)
   - gbfs (tell the program to search using Greedy Best-first search algorithm)
